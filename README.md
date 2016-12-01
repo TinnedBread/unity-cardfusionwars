@@ -1,4 +1,4 @@
-# unity-fusionwars
+# unity-cardfusionwars
 A Game Jam game created in Unity at Bournemouth University, UK.(June 2016)
 
 The theme for this Game Jam was "Fusion".
